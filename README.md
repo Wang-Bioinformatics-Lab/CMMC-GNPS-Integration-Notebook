@@ -28,3 +28,7 @@ Additional documentation will go into docs.
 ### Best Practices
 
 Commit and save changes often and push to github. 
+
+### Launching in MyBinder
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Wang-Bioinformatics-Lab/CMMC-GNPS-Integration-Notebook/HEAD?labpath=src%2Fjupyternotebook.ipynb)
